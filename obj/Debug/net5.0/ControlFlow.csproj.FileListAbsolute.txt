@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.AssemblyInfo.cs
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ControlFlow.exe
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ControlFlow.deps.json
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ControlFlow.runtimeconfig.json
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ControlFlow.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ControlFlow.dll
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ref\ControlFlow.dll
+C:\Users\slupi\source\repos\ControlFlow\bin\Debug\net5.0\ControlFlow.pdb
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.dll
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ref\ControlFlow.dll
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.pdb
+C:\Users\slupi\source\repos\ControlFlow\obj\Debug\net5.0\ControlFlow.genruntimeconfig.cache
